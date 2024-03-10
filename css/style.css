@@ -46,6 +46,8 @@ text-decoration: none;
 
 .nav-list li a.active {
   background-color: #555;
+  font-weight: bold;
+    text-decoration: wavy underline;
 }
 
 nav ul li a.active {
